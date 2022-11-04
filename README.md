@@ -36,3 +36,6 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
+
+### Demonstration
+[Demonstration Video](https://faizath.github.io/?q=VTJGc2RHVmtYMStVOWhVK1JkN2I1VHF4aHZFN2p1em1HRHVwTzRmUGgyQWhMWGZ1RzlobXBHdit1SWhWejZGaDl0bEpNdWNtVk1qY0NMeWVsMjFQaXc9PQ%3D%3D&k=bSNrYm5zMzlwYmUmITImRFpebjJIISR3eFdFZyFmXm5eekEyRllUQkNRcGk1KjlhXmpNU1JAOSo4IyMlUDJkN3dmWmJIOFJhY2I4eHQjTjJ1QmNZRnVkOFdueW92I3ZhcmZHIWd1dmhGRGJoTnZAMnVWcTkhOXokeWNZKkJXJCM%3D)
